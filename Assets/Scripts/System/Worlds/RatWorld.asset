@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3bf3fb1855377f47bc0ffa3d0addb88, type: 3}
+  m_Name: RatWorld
+  m_EditorClassIdentifier: 
+  Ennemies:
+  - {fileID: 5348245635820936464, guid: 58cbcc3317746ca40929de7aa083cfc3, type: 3}
+  - {fileID: 2022910083110694583, guid: e1018314c76fc3d4788fcf7a7be5a970, type: 3}
+  - {fileID: 145261442685292585, guid: ad6d147137271a9439ca145e6ae227d9, type: 3}
+  - {fileID: 4548924980098830684, guid: fbad93b5e8579c14ca1cab209ce05b80, type: 3}
+  - {fileID: 4956735645901461808, guid: a7026178302e4ba4b811b70b13deb3bf, type: 3}
+  Name: RatWorld
+  Tag: 1

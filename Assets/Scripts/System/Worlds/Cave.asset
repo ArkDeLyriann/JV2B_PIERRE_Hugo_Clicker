@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3bf3fb1855377f47bc0ffa3d0addb88, type: 3}
+  m_Name: Cave
+  m_EditorClassIdentifier: 
+  Ennemies:
+  - {fileID: 5188159547733716712, guid: bf7a5969e770ba24cbf4b473960b4191, type: 3}
+  - {fileID: 8070901454998855491, guid: 522485806d9e273449979e2ae0787526, type: 3}
+  - {fileID: 935192705802052790, guid: 5883928a4894088478a2fc221c0fce34, type: 3}
+  - {fileID: 5442271674667379836, guid: 74ac46dda226e474f910b865658a81a3, type: 3}
+  Name: Cave
+  Tag: 0
